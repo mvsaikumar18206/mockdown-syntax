@@ -44,3 +44,13 @@ def fun():
 ```
 fun()
 ```
+## write a c program to print hello apssdc
+```
+#include <stdio.h>
+int main()
+{
+ printf("Hello apssdc"); 
+  
+    return 0; 
+} 
+```
