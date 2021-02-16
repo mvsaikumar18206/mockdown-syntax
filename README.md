@@ -36,4 +36,11 @@ iajgffckv
     + sai2
 - apssdc
 - kits
-
+## code
+` ` `python
+def fun():
+    print("hello kits eee")
+` ` `
+` ` `
+fun()
+` ` `
