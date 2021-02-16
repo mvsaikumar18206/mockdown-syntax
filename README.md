@@ -37,10 +37,10 @@ iajgffckv
 - apssdc
 - kits
 ## code
-` ` `python
+```python
 def fun():
-    print("hello kits eee")
-` ` `
-` ` `
+    printf("hello kits eee")
+```
+```
 fun()
-` ` `
+```
