@@ -1,2 +1,5 @@
 # mockdown-syntax
-day 2 eee kits
+## heading 2
+### sai kumar
+#### eee
+###### btech
