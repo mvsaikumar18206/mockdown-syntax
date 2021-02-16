@@ -6,11 +6,11 @@
 **bold**
 **mvsaikumar**
 
-*italic*
-*mvsaikumar*
+* italic *
+* mvsaikumar *
 
-**-bold and italic-**
-**-mvsaikumar-**
+** -bold and italic- **
+** -mvsaikumar- **
 
 ## block quotes 
 >;jfdndsafcnjkfewuinkj
@@ -36,3 +36,4 @@ iajgffckv
     + sai2
 - apssdc
 - kits
+
